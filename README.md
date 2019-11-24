@@ -1,2 +1,2 @@
 
-# tailwind-life-control-panel
+# tailwind-control-panel
